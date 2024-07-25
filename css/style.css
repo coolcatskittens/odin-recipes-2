@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    color:rgb(185, 99, 113)
+}
+
+.carrot {
+    background-color: rgb(231, 208, 165);
+}
+
+.mousse {
+    background-color: rgb(134, 115, 73);
+}
+
+.smoothie {
+    background-color: pink;
+}
