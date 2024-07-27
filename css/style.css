@@ -2,8 +2,39 @@ body {
     font-family: Arial, Helvetica, sans-serif
 }
 
+.link-one {
+    padding: 30px;
+    text-align: center;
+    margin: 10px 400px;
+    background:rgb(231, 208, 165)
+
+}
+
+.link-two {
+    padding: 30px;
+    text-align: center;
+    margin: 10px 400px;
+    background:rgb(134, 115, 73)
+
+}
+
+.link-three {
+    padding: 30px;
+    text-align: center;
+    margin: 0 400px;
+    background:rgb(185, 99, 113)
+
+}
+
 .title {
-    color:rgb(185, 99, 113)
+    color:rgb(185, 99, 113);
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    font-size: 12px;
+    margin: 30px;
 }
 
 .carrot {
